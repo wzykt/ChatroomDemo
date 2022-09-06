@@ -1,0 +1,4 @@
+# Project exclude paths
+/netty-demo-client/target/
+/netty-demo-common/target/
+/netty-demo-server/target/
